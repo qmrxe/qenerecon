@@ -46,5 +46,6 @@ Qene Tech Cybersecurity | Bug Bounty | Recon Automation
 - YouTube: https://www.youtube.com/@qenetech
 - TikTok: https://www.tiktok.com/@qenetech
 - LinkedIn: https://www.linkedin.com/in/qmrxe/
+- Telegram: https://t.me/qenetechchannel
 
 => "Turning hidden signals into intelligence."
