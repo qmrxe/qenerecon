@@ -44,6 +44,7 @@ Linux environment (recommended Kali Linux), Go installed, internet connection
 
 Qene Tech Cybersecurity | Bug Bounty | Recon Automation 
 - YouTube: https://www.youtube.com/@qenetech
+- TikTok: https://www.tiktok.com/@qenetech
 - LinkedIn: https://www.linkedin.com/in/qmrxe/
 
 => "Turning hidden signals into intelligence."
