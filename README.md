@@ -24,7 +24,7 @@ all_subdomains.txt – all discovered subdomains resolved.txt – valid (DNS-res
 
 ## Usage
 
-- `git clone https://github.com/mintaw/QeneRecon.git` 
+- `git clone https://github.com/qmrxe/QeneRecon.git` 
 - `cd QeneRecon`
 - `chmod +x qene-recon.sh`
 - `./qene-recon.sh example.com`
